@@ -7,7 +7,7 @@
             Console.WriteLine("Regular Expressions Problems");
 
             Patterns objPattern = new Patterns();
-            objPattern.ValidatePinCode("400088");
+            objPattern.ValidatePinCode("A400088");
         }
     }
 }
